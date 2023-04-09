@@ -62,7 +62,7 @@ img{
     display: flex;
     align-items: center;
     padding-top: 7px;
-    padding-left: 300px;
+    padding-left: 230px;
 }
   
 .search-container form {
@@ -105,7 +105,7 @@ header{
     background-size: cover;
     color: white;
     padding-top: 300px;
-    padding-left: 125px;
+    padding-left: 122px;
     margin-top:-80px;
 }
 
@@ -194,24 +194,89 @@ header{
     padding-top: 17px;
 }
 
+footer{
+    width: 100%;
+    height: 200px;
+    background-color: #2b2b2b;
+}
+
+footer p{
+    color: white;
+    padding-left: 122px;
+}
+
 .footer-con ul{
     list-style: none;
 }
 
 .footer-con li{
-    float: right;
-    height: 35px;
-    background-color: white;
+    float: left;
+    height: 20px;
+    background-color: none;
     color: black;
     padding-left: 15px;
     padding-right: 15px;
     margin: auto 0;
     margin-right: 5px;
     margin-left: 5px;
-    padding-top: 5px;
-    margin-top: 20px;
-    margin-bottom: 100px;
+    padding-top: -80px;
+    margin-top: 5px;
 }
+
+.button-you{
+    width: 50px;
+    height: 50px;
+    background-color: none;
+    background-image: url(../assets/youtube_icon\ copy.svg);
+    background-position: center;
+    background-size: cover;
+    border: 2px solid white;
+    margin-top: -40px;
+    margin-left: 1058px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+.button-face{
+    width: 50px;
+    height: 50px;
+    background-color: none;
+    background-image: url(../assets/facebook_icon\ copy.svg);
+    background-position: center;
+    background-size: cover;
+    border: 2px solid white;
+    margin-top: -65px;
+    margin-left: 1128px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+.button-twitter{
+    width: 50px;
+    height: 50px;
+    background-color: none;
+    background-image: url(../assets/twitter_icon\ copy.svg);
+    background-position: center;
+    background-size: cover;
+    border: 2px solid white;
+    margin-top: -90px;
+    margin-left: 1198px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+.button-insta{
+    width: 50px;
+    height: 50px;
+    background-color: none;
+    background-image: url(../assets/instagram_icon\ copy.svg);
+    background-position: center;
+    background-size: cover;
+    border: 2px solid white;
+    margin-top: -115px;
+    margin-left: 1268px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+
 
 .button-icon{
     width: 40px;
@@ -267,7 +332,7 @@ header{
     text-align: left;
     background-color: #2b2b2b;
     color: white;
-    padding-left: 90px;
+    padding-left: 122px;
 }
 
 
@@ -403,16 +468,16 @@ header{
 }
 
 .button-love{
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
     background-color: transparent;
     background-image: url(../assets/white_heart_icon\ copy.svg);
     background-position: center;
     background-size: cover;
     border: 3px solid #ff00ff;
     margin: auto 0;
-    margin-left: 190px;
-    margin-top: -55px;
+    margin-left: 205px;
+    margin-top: -50px;
     border-radius: 40px;
     cursor: pointer;
 }
