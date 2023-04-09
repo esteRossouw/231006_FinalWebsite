@@ -139,14 +139,22 @@ header{
 
 }
 
+.button-one:hover {
+    background-color: transparent;
+    color: white;
+    border: 5px solid #ff00ff;
+    padding-top: 17px;
+}
+  
+
 .button-two{
     width: 225px;
     height: 70px;
-    background-color: none;
+    background-color: transparent;
     border: 5px solid #ff00ff;
     color: white;
     text-align: center;
-    padding-top: 20px;
+    padding-top: 17px;
     margin: auto 0;
     margin-top: 70px;
     border-radius: 40px;
@@ -155,10 +163,17 @@ header{
     font-weight: bold;
 }
 
+.button-two:hover {
+    background-color: #ff00ff;
+    color: black;
+    border: 5px solid #ff00ff;
+    padding-top: 17px;
+}
+
 .button-like{
     width: 70px;
     height: 70px;
-    background-color: none;
+    background-color: transparent;
     background-image: url(../assets/white_heart_icon\ copy.svg);
     background-position: center;
     background-size: cover;
@@ -170,6 +185,13 @@ header{
     border-radius: 40px;
     margin-bottom: 10px;
     cursor: pointer;
+}
+
+.button-like:hover {
+    background-color: #ff00ff;
+    color: black;
+    border: 5px solid #ff00ff;
+    padding-top: 17px;
 }
 
 .footer-con ul{
