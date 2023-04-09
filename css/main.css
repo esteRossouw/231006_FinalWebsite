@@ -379,14 +379,16 @@ header{
 .icon{
     width: 70px;
     height: 70px;
-    background-color: rgba(209, 51, 196, 0.4);
+    background-color: #ff00ff;
     background-image: url(../assets/white_play_media_icon\ copy.svg);
     border-radius: 40px;
     margin: 0 auto;
+    opacity: 0.6;
 }
 .icon:hover {
     background-color: #ff00ff;
     padding-top: 9px;
+    opacity: 1;
 }
 
 
@@ -467,6 +469,142 @@ header{
     background-size: cover;
 }
 .content-4{
+    width: 277px;
+    height: 77px;
+    background-color: rgba(209, 51, 196, 0.4);
+    margin-top: 50px;
+    color: white;
+    padding-left: 15px;
+    padding-top: 9px;
+}
+
+.thumbnail-5{
+    width: 277px;
+    height: 277px;
+    background-image: url(../assets/);
+    background-position: center;
+    background-size: cover;
+}
+.content-5{
+    width: 277px;
+    height: 77px;
+    background-color: rgba(209, 51, 196, 0.4);
+    margin-top: 50px;
+    color: white;
+    padding-left: 15px;
+    padding-top: 9px;
+}
+
+.thumbnail-6{
+    width: 277px;
+    height: 277px;
+    background-image: url(../assets/);
+    background-position: center;
+    background-size: cover;
+}
+.content-6{
+    width: 277px;
+    height: 77px;
+    background-color: rgba(209, 51, 196, 0.4);
+    margin-top: 50px;
+    color: white;
+    padding-left: 15px;
+    padding-top: 9px;
+}
+
+.thumbnail-7{
+    width: 277px;
+    height: 277px;
+    background-image: url(../assets/);
+    background-position: center;
+    background-size: cover;
+}
+.content-7{
+    width: 277px;
+    height: 77px;
+    background-color: rgba(209, 51, 196, 0.4);
+    margin-top: 50px;
+    color: white;
+    padding-left: 15px;
+    padding-top: 9px;
+}
+
+.thumbnail-8{
+    width: 277px;
+    height: 277px;
+    background-image: url(../assets/);
+    background-position: center;
+    background-size: cover;
+}
+.content-8{
+    width: 277px;
+    height: 77px;
+    background-color: rgba(209, 51, 196, 0.4);
+    margin-top: 50px;
+    color: white;
+    padding-left: 15px;
+    padding-top: 9px;
+}
+
+.thumbnail-9{
+    width: 277px;
+    height: 277px;
+    background-image: url(../assets/);
+    background-position: center;
+    background-size: cover;
+}
+.content-9{
+    width: 277px;
+    height: 77px;
+    background-color: rgba(209, 51, 196, 0.4);
+    margin-top: 50px;
+    color: white;
+    padding-left: 15px;
+    padding-top: 9px;
+}
+
+.thumbnail-10{
+    width: 277px;
+    height: 277px;
+    background-image: url(../assets/);
+    background-position: center;
+    background-size: cover;
+}
+.content-10{
+    width: 277px;
+    height: 77px;
+    background-color: rgba(209, 51, 196, 0.4);
+    margin-top: 50px;
+    color: white;
+    padding-left: 15px;
+    padding-top: 9px;
+}
+
+.thumbnail-11{
+    width: 277px;
+    height: 277px;
+    background-image: url(../assets/);
+    background-position: center;
+    background-size: cover;
+}
+.content-11{
+    width: 277px;
+    height: 77px;
+    background-color: rgba(209, 51, 196, 0.4);
+    margin-top: 50px;
+    color: white;
+    padding-left: 15px;
+    padding-top: 9px;
+}
+
+.thumbnail-12{
+    width: 277px;
+    height: 277px;
+    background-image: url(../assets/);
+    background-position: center;
+    background-size: cover;
+}
+.content-12{
     width: 277px;
     height: 77px;
     background-color: rgba(209, 51, 196, 0.4);
