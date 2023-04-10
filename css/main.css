@@ -425,7 +425,7 @@ footer p{
 .thumbnail-1{
     width: 277px;
     height: 277px;
-    background-image: url(../assets/);
+    background-image: url(../assets/lone.jpeg);
     background-position: center;
     background-size: cover;
 }
@@ -496,7 +496,7 @@ footer p{
 .thumbnail-2{
     width: 277px;
     height: 277px;
-    background-image: url(../assets/);
+    background-image: url(../assets/auraa.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -513,7 +513,7 @@ footer p{
 .thumbnail-3{
     width: 277px;
     height: 277px;
-    background-image: url(../assets/);
+    background-image: url(../assets/mutant.jpeg);
     background-position: center;
     background-size: cover;
 }
@@ -530,7 +530,7 @@ footer p{
 .thumbnail-4{
     width: 277px;
     height: 277px;
-    background-image: url(../assets/);
+    background-image: url(../assets/FEAR.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -547,7 +547,7 @@ footer p{
 .thumbnail-5{
     width: 277px;
     height: 277px;
-    background-image: url(../assets/);
+    background-image: url(../assets/Moderat_Dlx_Cover_rgb-1200x1200.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -564,7 +564,7 @@ footer p{
 .thumbnail-6{
     width: 277px;
     height: 277px;
-    background-image: url(../assets/);
+    background-image: url(../assets/flat.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -581,7 +581,7 @@ footer p{
 .thumbnail-7{
     width: 277px;
     height: 277px;
-    background-image: url(../assets/);
+    background-image: url(../assets/fabric.jpeg);
     background-position: center;
     background-size: cover;
 }
@@ -598,7 +598,7 @@ footer p{
 .thumbnail-8{
     width: 277px;
     height: 277px;
-    background-image: url(../assets/);
+    background-image: url(../assets/justice.jpeg);
     background-position: center;
     background-size: cover;
 }
@@ -615,7 +615,7 @@ footer p{
 .thumbnail-9{
     width: 277px;
     height: 277px;
-    background-image: url(../assets/);
+    background-image: url(../assets/daft.jpeg);
     background-position: center;
     background-size: cover;
 }
@@ -632,7 +632,7 @@ footer p{
 .thumbnail-10{
     width: 277px;
     height: 277px;
-    background-image: url(../assets/);
+    background-image: url(../assets/visions.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -649,7 +649,7 @@ footer p{
 .thumbnail-11{
     width: 277px;
     height: 277px;
-    background-image: url(../assets/);
+    background-image: url(../assets/moby.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -666,7 +666,7 @@ footer p{
 .thumbnail-12{
     width: 277px;
     height: 277px;
-    background-image: url(../assets/);
+    background-image: url(../assets/insides.jpeg);
     background-position: center;
     background-size: cover;
 }
@@ -838,6 +838,13 @@ footer p{
     cursor: pointer;
     font-weight: bold;
 }
+.form2 button:hover {
+    background-color: transparent;
+    color: white;
+    border: 5px solid #ff00ff;
+    padding-top: 5px;
+    font-weight: bold;
+}
 
 .form2 input[type=text]::placeholder {
     color: white;
@@ -852,4 +859,124 @@ footer p{
     color: white;
 }
 
+.title-two{
+    height: 35px;
+    width: 100%;
+    text-align: left;
+    background-color: black;
+    color: white;
+    padding-left: 122px;
+    margin-top: 85px;
+    margin-left: -20px;
+    margin-bottom: 50px;
+}
 
+.col-box-6{
+    height: 470px;
+    width: 470px;
+    background-image: url(../assets/pexels-everson-mayer-1481310.jpg); /*Photo by Everson Mayer: https://www.pexels.com/photo/low-light-photography-of-dj-controller-1481310/*/
+    background-position: center;
+    background-size: cover;
+    margin-left: 100px;
+    margin-bottom: 140px;
+}
+
+.col-box-6 h1{
+    color: white;
+    padding-top: 180px;
+    text-align: center;
+    font-weight: bold;
+}
+.col-box-6 h2{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+.icon-2{
+    width: 50px;
+    height: 50px;
+    background-image: url(../assets/stream_small_logo_white.svg);
+    border-radius: 40px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.active-2{
+    font-weight: bold;
+    border-bottom: 3px solid #ff00ff;
+}
+
+
+.my{
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 135px;
+    color: white;
+    height: 30px;
+}
+
+.my ul{
+    list-style: none;
+}
+
+.my li{
+    float: left;
+    width: 180px;
+    margin: 0 auto;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.heading{
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: white;
+    height: 30px;
+}
+
+.heading ul{
+    list-style: none;
+}
+
+.heading li{
+    float: left;
+    width: 140px;
+    margin: 0 auto;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: bold;
+}
+
+.song{
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: white;
+    height: 30px;
+}
+
+.song ul{
+    list-style: none;
+}
+
+.song li{
+    float: left;
+    width: 140px;
+    margin: 0 auto;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;;
+    border-bottom: 3px solid #2b2b2b;
+}
+
+.more{
+    background-image: url(../assets/);
+    background-position: center;
+    background-size: cover;
+}
