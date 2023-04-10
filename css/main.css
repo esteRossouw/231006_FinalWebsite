@@ -44,6 +44,7 @@ img{
     margin-right: 5px;
     margin-left: 5px;
     text-align: center;
+    font-family: 'Lato', sans-serif;
     text-shadow: 0px 0px 10px #ff00ff, 0px 0px 20px #ff00ff, 0px 0px 30px #ff00ff, 0px 0px 40px #ff00ff;
 }
 
@@ -108,6 +109,17 @@ header{
     padding-top: 300px;
     padding-left: 122px;
     margin-top:-80px;
+}
+
+header h1{
+    font-family: 'DotGothic16', sans-serif;
+    font-weight: bold;
+    text-shadow: 0px 0px 10px #ff00ff, 0px 0px 20px #ff00ff, 0px 0px 30px #ff00ff, 0px 0px 40px #ff00ff;
+}
+
+header h3{
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
 }
 
 
@@ -334,6 +346,8 @@ footer p{
     background-color: black;
     color: white;
     padding-left: 122px;
+    font-family: 'Lato', sans-serif;
+    text-shadow: 0px 0px 10px #ff00ff, 0px 0px 20px #ff00ff, 0px 0px 30px #ff00ff, 0px 0px 40px #ff00ff;
 }
 
 
@@ -405,7 +419,13 @@ footer p{
     margin-left: 20px;
     margin-right: 50px;
 }
-
+.col-6-text h1{
+    font-family: 'DotGothic16', sans-serif;
+    text-shadow: 0px 0px 10px #ff00ff, 0px 0px 20px #ff00ff, 0px 0px 30px #ff00ff, 0px 0px 40px #ff00ff;
+}
+.col-6-text h3{
+    font-family: 'Lato', sans-serif;
+}
 .col-6-text-2{
     text-align: justify;
     padding-left: 20px;
@@ -413,11 +433,23 @@ footer p{
     margin-left: 20px;
     margin-right: 50px;
 }
-
+.col-6-text-2 h1{
+    font-family: 'DotGothic16', sans-serif;
+    text-shadow: 0px 0px 10px #ff00ff, 0px 0px 20px #ff00ff, 0px 0px 30px #ff00ff, 0px 0px 40px #ff00ff;
+}
+.col-6-text-2 h3{
+    font-family: 'Lato', sans-serif;
+}
+.col-6-text-2 p{
+    font-family: 'Lato', sans-serif;
+}
 .col-6{
     background-color: black;
 }
-
+.form2 h3{
+    font-family: 'DotGothic16', sans-serif;
+    text-shadow: 0px 0px 10px #ff00ff, 0px 0px 20px #ff00ff, 0px 0px 30px #ff00ff, 0px 0px 40px #ff00ff;
+}
 .col-3{
     background-color: black;
 }
@@ -704,7 +736,7 @@ footer p{
     border: 5px solid #ff00ff;
     padding-top: 5px;
     margin: auto 0;
-    margin-top: 80px;
+    margin-top: 5px;
     margin-left: -25px;
     border-radius: 50px;
     margin-bottom: 25px;
@@ -975,8 +1007,11 @@ footer p{
     border-bottom: 3px solid #2b2b2b;
 }
 
-.more{
-    background-image: url(../assets/);
+.dots{
+    height: 40px;
+    width: 40px;
+    background-color: url(../assets/options_copy\ copy.svg);
     background-position: center;
     background-size: cover;
 }
+
